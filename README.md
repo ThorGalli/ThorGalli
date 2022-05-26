@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ThorGalli
-- 👀 I’m interested in game developing and data science.
-- 🌱 I’m currently learning everything, really. From HTML+CSS+JS to Python, Java, Unity+C# and databases. I'm also a Civil Engineer.
-- 💞️ I’m looking to collaborate on physics related gaming features.
+As a child, I was curious and interested in how things worked, which eventually led me to engineering, where I acquired advanced knowledge of physics, calculus, algebra, geometry, administration and economy. Due to my affinity to computers and gaming, I learned a lot about programming and computer science.
+
+In the background and as a consequence of a solid education, my interdisciplinary knowledge is broad and rich (biology, geography, music, gastronomy, philosophy, psychology, and so forth).
+
+In tech, my preferred role is BackEnd, and my greatest interests revolve around game development, machine learning and artificial intelligence.
+
 - 📫 How to reach me: gallithor@gmail.com
 
 <!---
