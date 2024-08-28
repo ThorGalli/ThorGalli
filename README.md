@@ -5,9 +5,11 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 ### About me:
 
-👋 Hello there, I'm Thor—a versatile Full Stack Developer.
+👋  Hello there, I'm Thor—a versatile Full Stack Developer with over 3 years of experience in technology.
 
-💡 3 years of hands-on experience in Web Development.
+💻  Fluent in English, currently working for an outsourced company, serving renowned clients such as HP.
+
+🏃🏼‍♂  Using agile methodologies to facilitate the development and maintenance of multiplatform applications.
 
 🔨 Proficient in Java, TypeScript, Node, NestJS, Next.js, and React. 
 
@@ -18,3 +20,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 🌐 Check out my Portfolio: https://www.gallithor.tech
 
 🎮 My programming journey spans over 15 years, starting with game development and modding during my teens.
+
+
+
+Has knowledge of front-end, using the React.js Framework for developing webapps, and back-end, integrating services and APIs. Works with code review and applies automated tests to ensure the quality of projects.
