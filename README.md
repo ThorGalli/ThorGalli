@@ -13,7 +13,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 🔨 Proficient in Java, TypeScript, Node, NestJS, Next.js, and React. 
 
-💻 Equipped with strong foundations in HTML, CSS, JavaScript, SQL, Git, and Linux. Also skilled in Agile methodologies (Scrum), CI/CD, and Git flow,
+💻 Equipped with strong foundations in HTML, CSS, JavaScript, SQL, Git, and Linux. Also skilled in Agile methodologies (Scrum), CI/CD, and Git flow.
 
 ⚙ Bringing advanced interdisciplinary to the team, due to my background in Civil Engineering.
 
