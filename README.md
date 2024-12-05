@@ -5,7 +5,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 ### About me:
 
-👋  Hello there, I'm Thor—a versatile Full Stack Developer with over 3 years of experience in technology.
+👋  Hello there, I'm Thor—a versatile Full Stack Developer with over 4 years of experience in technology.
 
 💻  Fluent in English, currently working for an outsourced company, serving renowned clients such as HP.
 
@@ -17,7 +17,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 ⚙ Bringing advanced interdisciplinary to the team, due to my background in Civil Engineering.
 
-🌐 Check out my Portfolio: https://www.gallithor.tech
+🌐 Check out my Portfolio: https://www.thorgalli.site/
 
 🎮 My programming journey spans over 15 years, starting with game development and modding during my teens.
 
