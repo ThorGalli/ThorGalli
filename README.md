@@ -17,7 +17,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 ⚙ Bringing advanced interdisciplinary to the team, due to my background in Civil Engineering.
 
-🌐 Check out my Portfolio: https://www.thorgalli.site/
+🌐 Check out my Portfolio: https://www.thorgalli.com/
 
 🎮 My programming journey spans over 15 years, starting with game development and modding during my teens.
 
