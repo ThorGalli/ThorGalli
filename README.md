@@ -5,7 +5,7 @@ Linkedin: [/in/thor-galli](https://www.linkedin.com/in/thor-galli/)
 
 ### About me:
 
-👋  Hello there, I'm Thor—a versatile Full Stack Developer with over 4 years of experience in technology.
+👋  Hello there, I'm Thor—a versatile Full Stack Developer with over 5 years of experience in technology.
 
 💻  Fluent in English, currently working for an outsourced company, serving renowned clients such as HP.
 
